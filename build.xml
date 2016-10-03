@@ -7,7 +7,7 @@
   <path id="class-path">
     <pathelement location="${build-directory}"/>
     <pathelement location="./miglayout-4.0.jar"/>
-    <pathelement location="${source-directory}/pkg2048"/>
+    <pathelement location="${build-directory}/pkg2048"/>
   </path>
 
   <target name="prepare">
