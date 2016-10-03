@@ -1,5 +1,5 @@
 
-<project name="2048" default="help" basedir=".">
+<project name="2048" default="run" basedir=".">
 
   <property name="build-directory" value="build"/>
   <property name="source-directory" value="src"/>
